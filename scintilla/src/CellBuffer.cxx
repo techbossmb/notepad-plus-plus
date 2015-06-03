@@ -4,7 +4,7 @@
  **/
 // Copyright 1998-2001 by Neil Hodgson <neilh@scintilla.org>
 // The License.txt file describes the conditions under which this software may be distributed.
-
+dgggsdsg
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
