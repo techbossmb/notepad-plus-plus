@@ -3,7 +3,7 @@
 
 .SUFFIXES: .cxx
 
-GTEST_DIR = ../../../../gtest-1.5.0
+GTEST_DIR = ../../../../gtest-1.7.0
 
 ifdef windir
 
@@ -32,7 +32,7 @@ endif
 vpath %.cxx ../../src
 
 
-INCLUDEDIRS = -I ../../include -I ../../src -I../../lexlib
+INCLUDEDIRS = -I ../../src -I../../lexlib -I ../../include 
 
 
 # Find headers of test code.
